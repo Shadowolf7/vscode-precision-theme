@@ -1,0 +1,23 @@
+{
+	"name": "vscode-precision-theme",
+	"displayName": "Precision Theme",
+	"description": "A theme close to the original one which provides a better user experience in the Gnome desktop environment",
+	"categories": [
+		"Themes"
+	],
+	"version": "0.1.0",
+	"publisher": "vscode",
+	"engines": {
+		"vscode": "*"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"id": "precision",
+				"label": "Precision",
+				"uiTheme": "vs-dark",
+				"path": "./themes/precision_plus.json"
+			}
+		]
+	}
+}
