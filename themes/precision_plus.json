@@ -126,8 +126,8 @@
 				"constant.character.set.regexp"
 			],
 			"settings": {
-				// "foreground": "#d16969"
-				"foreground": "#40ADA2"
+				"foreground": "#d16969"
+				//"foreground": "#40ADA2"
 			}
 		},
 		{

@@ -1,28 +1,28 @@
 {
-	"name": "vscode-precision-theme",
-	"displayName": "Precision Theme",
-	"description": "A theme close to the original one which provides a better user experience in the Gnome desktop environment",
-	"categories": [
-		"Themes"
-	],
-	"version": "0.2.0",
-	"publisher": "kesmarag",
-	"engines": {
-		"vscode": "*"
-	},
-	"contributes": {
-		"themes": [
-			{
-				"id": "precision",
-				"label": "Precision",
-				"uiTheme": "vs-dark",
-				"path": "./themes/precision_plus.json"
-			}
-		]
-	},
-	"__metadata": {
-		"id": "4c5129cd-4ff6-4766-a145-ecb8de922b31",
-		"publisherDisplayName": "Costas Smaragdakis",
-		"publisherId": "1b91ed39-c583-45c8-8b9b-079e8556ede6"
-	}
+    "name": "vscode-precision-theme",
+    "displayName": "Precision Theme",
+    "description": "A theme close to the original one which provides a better user experience in the Gnome desktop environment",
+    "categories": [
+        "Themes"
+    ],
+    "version": "1.0.0",
+    "publisher": "kesmarag",
+    "engines": {
+        "vscode": "*"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "id": "precision",
+                "label": "Precision",
+                "uiTheme": "vs-dark",
+                "path": "./themes/precision_plus.json"
+            }
+        ]
+    },
+    "__metadata": {
+        "id": "4c5129cd-4ff6-4766-a145-ecb8de922b31",
+        "publisherDisplayName": "Costas Smaragdakis",
+        "publisherId": "1b91ed39-c583-45c8-8b9b-079e8556ede6"
+    }
 }
