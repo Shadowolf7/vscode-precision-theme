@@ -1,0 +1,1 @@
+![Precision Theme](https://github.com/kesmarag/vscode-precision-theme/raw/master/./precision-demo.png)
