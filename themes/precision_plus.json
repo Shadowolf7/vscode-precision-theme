@@ -76,7 +76,8 @@
 				"support.variable"
 			],
 			"settings": {
-				"foreground": "#7B9FCC"
+				// "foreground": "#7B9FCC"
+				"foreground": "#90B4DF"
 			}
 		},
 		{
@@ -85,7 +86,8 @@
 				"meta.object-literal.key"
 			],
 			"settings": {
-				"foreground": "#7B9FCC"
+				// "foreground": "#7B9FCC"
+				"foreground": "#90B4DF"
 			}
 		},
 		{
