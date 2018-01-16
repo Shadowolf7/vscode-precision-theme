@@ -1,11 +1,11 @@
 {
     "name": "vscode-precision-theme",
     "displayName": "Precision Theme",
-    "description": "A theme close to the original one which provides a better user experience in Gnome desktop environment",
+    "description": "A similar to Dark+ color theme",
     "categories": [
         "Themes"
     ],
-    "version": "2.0.0",
+    "version": "2.2.0",
     "publisher": "kesmarag",
     "author": {
         "name": "Costas Smaragdakis",
@@ -16,8 +16,8 @@
         "linux",
         "gnome",
         "precision",
-        "themes",
-        "adwaita"
+        "adwaita",
+        "Dark+"
     ],
     "icon": "precision.png",
     "repository": {
