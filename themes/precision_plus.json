@@ -12,7 +12,7 @@
 			],
 			"settings": {
 				//"foreground": "#A88D57"
-				"foreground": "#D5B690"
+				"foreground": "#E1CAAD"
 				// "foreground": "#7A9F5A"
 			}
 		},
@@ -138,13 +138,13 @@
 				"keyword.control.anchor.regexp"
 			],
 			"settings": {
-				"foreground": "#D5B690"
+				"foreground": "#E1CAAD"
 			}
 		},
 		{
 			"scope": "keyword.operator.quantifier.regexp",
 			"settings": {
-				"foreground": "#D5B690"
+				"foreground": "#E1CAAD"
 			}
 		},
 		{
@@ -156,7 +156,7 @@
 		{
 			"scope": "constant.character.escape",
 			"settings": {
-				"foreground": "#D5B690"
+				"foreground": "#E1CAAD"
 			}
 		}
 	]
