@@ -9,7 +9,7 @@
 				"source.groovy.embedded"
 			],
 			"settings": {
-				"foreground": "#C3C8D0"
+				"foreground": "#C0C5CE"
 			}
 		},
 		{
@@ -260,7 +260,7 @@
 				"meta.template.expression"
 			],
 			"settings": {
-				"foreground": "#C3C8D0"
+				"foreground": "#C0C5CE"
 			}
 		},
 		{
@@ -291,7 +291,7 @@
 		{
 			"scope": "keyword.operator",
 			"settings": {
-				"foreground": "#C3C8D0"
+				"foreground": "#C0C5CE"
 			}
 		},
 		{
@@ -341,7 +341,7 @@
 				"storage.modifier.package.java"
 			],
 			"settings": {
-				"foreground": "#C3C8D0"
+				"foreground": "#C0C5CE"
 			}
 		},
 		{
