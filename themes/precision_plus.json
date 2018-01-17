@@ -44,7 +44,7 @@
 				"storage.type.primitive.groovy"
 			],
 			"settings": {
-				"foreground": "#48CBBE"
+				"foreground": "#3CBEB0"
 			}
 		},
 		{
@@ -58,7 +58,7 @@
 				"entity.other.inherited-class"
 			],
 			"settings": {
-				"foreground": "#48CBBE"
+				"foreground": "#3CBEB0"
 			}
 		},
 		{
@@ -77,7 +77,7 @@
 			],
 			"settings": {
 				// "foreground": "#7B9FCC"
-				"foreground": "#90B4DF"
+				"foreground": "#A0BEE3"
 			}
 		},
 		{
@@ -87,7 +87,7 @@
 			],
 			"settings": {
 				// "foreground": "#7B9FCC"
-				"foreground": "#90B4DF"
+				"foreground": "#A0BEE3"
 			}
 		},
 		{
@@ -129,7 +129,7 @@
 			],
 			"settings": {
 				"foreground": "#d16969"
-				//"foreground": "#48CBBE"
+				//"foreground": "#3CBEB0"
 			}
 		},
 		{
