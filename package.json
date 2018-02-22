@@ -5,7 +5,7 @@
     "categories": [
         "Themes"
     ],
-    "version": "2.5.1",
+    "version": "2.5.2",
     "publisher": "kesmarag",
     "author": {
         "name": "Costas Smaragdakis",
@@ -17,7 +17,7 @@
         "gnome",
         "precision",
         "adwaita",
-        "fedora"
+        "ubuntu"
     ],
     "icon": "precision.png",
     "repository": {
