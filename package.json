@@ -1,11 +1,11 @@
 {
     "name": "vscode-precision-theme",
-    "displayName": "Precision Theme",
-    "description": "A theme which provides an improved integration with the Gnome DE",
+    "displayName": "precision",
+    "description": "A theme which provides an improved integration with the Gnome desktop environment",
     "categories": [
         "Themes"
     ],
-    "version": "2.5.2",
+    "version": "2.5.3",
     "publisher": "kesmarag",
     "author": {
         "name": "Costas Smaragdakis",
@@ -17,7 +17,7 @@
         "gnome",
         "precision",
         "adwaita",
-        "ubuntu"
+        "dark"
     ],
     "icon": "precision.png",
     "repository": {

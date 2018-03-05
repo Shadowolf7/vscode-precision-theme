@@ -11,9 +11,7 @@
 				"support.constant.handlebars"
 			],
 			"settings": {
-				//"foreground": "#A88D57"
 				"foreground": "#D9BE9B"
-				// "foreground": "#7A9F5A"
 			}
 		},
 		{
@@ -76,7 +74,6 @@
 				"support.variable"
 			],
 			"settings": {
-				// "foreground": "#7B9FCC"
 				"foreground": "#A0BEE3"
 			}
 		},
@@ -86,7 +83,6 @@
 				"meta.object-literal.key"
 			],
 			"settings": {
-				// "foreground": "#7B9FCC"
 				"foreground": "#A0BEE3"
 			}
 		},
