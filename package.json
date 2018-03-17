@@ -1,11 +1,11 @@
-{ 
+{
     "name": "vscode-precision-theme",
     "displayName": "precision",
     "description": "A theme which provides an improved integration with the Gnome desktop environment",
     "categories": [
         "Themes"
     ],
-    "version": "2.6.1",
+    "version": "2.6.2",
     "publisher": "kesmarag",
     "author": {
         "name": "Costas Smaragdakis",
